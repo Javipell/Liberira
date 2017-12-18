@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Liberia de JAVIPELL</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_buscar_libro">BuscarLibro</string>
+    <string name="title_activity_registro">Registro</string>
+</resources>
